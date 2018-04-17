@@ -1,2 +1,0 @@
-- mobileprovisionのサンプル
-- Apple Member CenterのProvisioning Profileから書き換えたいplofileをdownloadし、profileフォルダに格納しておく
